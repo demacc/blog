@@ -1,0 +1,23 @@
+{
+    "blogs" : [
+        {
+            "id" : 1,
+            "title" : "Why do we need React?",
+            "author" : "Mac",
+            "blog" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, ipsum provident blanditiis dolore non minima? Voluptate ab tempore vero fuga. Enim dicta officia perferendis. Illum magnam omnis repellat esse nulla!"
+        },
+        {
+            "id" : 2,
+            "title" : "Why do we need JavaScript?",
+            "author" : "Odin",
+            "blog" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, ipsum provident blanditiis dolore non minima? Voluptate ab tempore vero fuga. Enim dicta officia perferendis. Illum magnam omnis repellat esse nulla!"
+        },
+        {
+            "id" : 3,
+            "title" : "die with a smile",
+            "author" : "Burno Mar",
+            "blog" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, ipsum provident blanditiis dolore non minima? Voluptate ab tempore vero fuga. Enim dicta officia perferendis. Illum magnam omnis repellat esse nulla!"
+        }
+
+    ]  
+}
