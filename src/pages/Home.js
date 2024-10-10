@@ -5,6 +5,7 @@ import "./home.css";
 function Home() {
   let url = "http://localhost:3001/blogs";
   let { data: blogs, loading, error } = useFetch(url);
+
   return (
     <div>
       {loading && <p>Loading ...</p>}
